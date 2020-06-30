@@ -1,0 +1,25 @@
+### Module positions - created on 06/29/20 23:10:51 ###
+### Printed by Pcbnew version kicad 4.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val            Package                               PosX       PosY       Rot  Side
+C7        1 uF           C_0805_HandSoldering               66.8580   -69.8160    0.0000  top
+C8        0.1 uF         C_0805_HandSoldering               65.3980   -46.8760  180.0000  top
+C9        0.1 uF         C_0805_HandSoldering               68.2780   -60.8660  180.0000  top
+C12       20 pF          C_0805_HandSoldering               72.1180   -39.9260    0.0000  top
+C13       1 uF           C_0805_HandSoldering               72.6880   -75.5060   90.0000  top
+C14       20 pF          C_0805_HandSoldering               65.0680   -40.0060  180.0000  top
+C15       20 pF          C_0805_HandSoldering               72.3380   -36.5760    0.0000  top
+C16       20 pF          C_0805_HandSoldering               65.1680   -36.7460  180.0000  top
+C17       10 nF          C_0805_HandSoldering               61.8080   -87.7360  270.0000  top
+D4        LED            LED_0805_HandSoldering             60.5680   -92.3860   90.0000  top
+R3        1.5k           R_0805_HandSoldering               73.5780   -82.6060  270.0000  top
+R4        22R            R_0805_HandSoldering               78.3080   -87.8660  270.0000  top
+R6        22R            R_0805_HandSoldering               76.3980   -87.8260  270.0000  top
+R9        1.5k           R_0805_HandSoldering               59.9380   -87.7260   90.0000  top
+R11       470R           R_0805_HandSoldering               58.6880   -92.3860  270.0000  top
+U1        AMS1117-3V3    SOT-223                            67.3380   -74.4960  180.0000  top
+U2        STM32F103C8T6  LQFP-48_7x7mm_Pitch0.5mm           68.5680   -53.9360  315.0000  top
+Y1        8 MHz          Crystal_SMD_5032-2pin_5.0x3.2mm    68.1380   -43.0660  180.0000  top
+Y2        Crystal        Crystal_SMD_3215-2pin_3.2x1.5mm    68.7480   -37.9060  270.0000  top
+## End
